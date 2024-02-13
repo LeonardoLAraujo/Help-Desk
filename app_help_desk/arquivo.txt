@@ -1,3 +1,0 @@
-2#Erro de impressão#Impressora#Não está imprimindo
-2#Problema na internet#Rede#Internet está muito lenta
-1#Computador Travou#Hardware#O computador deu tela azul
